@@ -1,0 +1,9 @@
+.*
+!.gitignore
+*.iml
+
+lib
+logs
+target
+tantalim/lib
+project/project
