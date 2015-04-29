@@ -2,8 +2,9 @@
 !.gitignore
 *.iml
 
-lib
-logs
-target
-tantalim/lib
-project/project
+/lib
+/logs
+/project/project
+/project/target
+/tantalim/lib
+/target
