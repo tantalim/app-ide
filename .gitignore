@@ -2,7 +2,6 @@
 !.gitignore
 *.iml
 
-/lib
 /logs
 /project/project
 /project/target
